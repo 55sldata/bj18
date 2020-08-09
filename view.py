@@ -1,0 +1,2 @@
+def yue():
+    return ('haha')
